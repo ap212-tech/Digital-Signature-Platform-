@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project is a part of creating whiteboard-app series.
+This is a white board project
 
 
 
