@@ -8,7 +8,7 @@ This is a white board project
 
 ![React App_Trim](https://user-images.githubusercontent.com/42608756/123518903-bd6ef900-d6c5-11eb-8c82-1949bce4d100.gif)
 
-### Final App:
+
 
 
 
